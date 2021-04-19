@@ -1,0 +1,37 @@
+.alert {
+  margin: 15px 0;
+}
+
+.btn.primary {
+  padding: 7px 50px;
+  border-radius: 6px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  border: 2px solid #084266;
+  transition: all 0.3s ease-in-out;
+  background: #094a72;
+  min-width: 240px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 29px;
+  height: 50px;
+  width: 100%;
+}
+
+.c-sidebar-brand-minimized {
+  max-width: 60%;
+}
+
+// .c-sidebar-brand-full {
+//   max-width: 100px;
+//   padding: 25px;
+// }
+.dropdown-menu{
+    padding: 0
+}
+
+.dropdown-divider {
+  margin: 0;
+}
